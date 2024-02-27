@@ -1,0 +1,6 @@
+Typescript notes -
+Installing
+--> npm install typescript -g
+
+Command to compile a file with typescript compiler -
+--> tsc filename.ts 
