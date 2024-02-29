@@ -5,5 +5,5 @@ Installing
 Command to compile a file with typescript compiler -
 --> tsc filename.ts 
 
-Generate tsconfig file with below command 
+Generate tsconfig file using below command
 --> tsc --init 
